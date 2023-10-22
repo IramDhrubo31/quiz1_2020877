@@ -1,0 +1,54 @@
+.first_container{
+    display: flex;
+    padding: 80px;
+    gap: 16vw;
+    background-color: pink;
+    
+}
+.firstParagraph{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#title{
+    font-size: 30px;
+}
+
+.shopButton{
+    border-radius: 12px;
+    background-color: palevioletred;
+    color: white;
+    padding: 8px 16px 8px 16px;
+}
+
+.first_container img{
+    width: 20%;
+    height: 60%;
+}
+
+.first_img{
+    max-width:100%;
+    height: auto;
+}
+
+.characteristics{
+    padding: 70px;
+    padding-top: 10px;
+}
+
+.second_container{
+    display: flex;
+    margin-top: 10px;
+}
+
+.second_container .flowerBtn{
+    width: 180px;
+}
+
+.content{
+    padding-right: 10px;
+}
+.second_container img{
+    width: 180px;
+    height: 180px;
+}
